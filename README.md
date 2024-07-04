@@ -1,2 +1,2 @@
 # web-personal
-stok barang
+porto
